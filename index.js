@@ -40,7 +40,6 @@ async function initMap() {
   //@ts-ignore
   featureLayer.style = (options) => {
     if (options.feature.placeId == "ChIJcbtjQ5G_w0cR7hXie1KSXWw") {
-      // Hana, HI
       return featureStyleOptions;
     }
   };
