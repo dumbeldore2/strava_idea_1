@@ -20,6 +20,7 @@ async function initMap() {
     //mapid must be created in google maps devops 
     //must also be vector
     mapId: "f784cacb8ed0ec4c",
+    streetViewControl: false,
 
   });
   
